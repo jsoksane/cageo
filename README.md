@@ -38,11 +38,11 @@ make
 Dependencies
 ------------
 
-*cuda (http://www.nvidia.com/getcuda)
-*boost (http://www.boost.org/)
-*eigen3 (http://eigen.tuxfamily.org/index.php?title=Main_Page)
-*fftw3 (https://github.com/FFTW/fftw3)
-*sigar (https://github.com/hyperic/sigar)
+-cuda (http://www.nvidia.com/getcuda)
+-boost (http://www.boost.org/)
+-eigen3 (http://eigen.tuxfamily.org/index.php?title=Main_Page)
+-fftw3 (https://github.com/FFTW/fftw3)
+-sigar (https://github.com/hyperic/sigar)
 
 Edit the Makefile and give the correct paths to these dependencies. By default, the software will be compiled in release configuration (-O3).
 
