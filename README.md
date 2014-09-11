@@ -29,7 +29,9 @@ Installation
 For compiling and running the program:
 
 cd *root directory of project*
+
 make
+
 ./drainage
 
 
