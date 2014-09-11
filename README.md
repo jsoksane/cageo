@@ -58,11 +58,11 @@ Sample data
 Samples contain data from the Topographic database and DEM10 (6/2012) by the National Land Survey of Finland, 
 http://www.maanmittauslaitos.fi/avoindata_lisenssi_versio1_20120501.
 
-./DEM/dem10	Digital elevation model in 10 m grid
-		http://www.maanmittauslaitos.fi/en/digituotteet/elevation-model-10-m
+./DEM/dem10
+- Digital elevation model in 10 m grid http://www.maanmittauslaitos.fi/en/digituotteet/elevation-model-10-m
 
-./DEM/streams	Rasterized streams from the Topographic database
-		http://www.maanmittauslaitos.fi/en/digituotteet/topographic-database
+./DEM/streams
+- Rasterized streams from the Topographic database 	http://www.maanmittauslaitos.fi/en/digituotteet/topographic-database
 
 
 Running the algorithm
