@@ -38,8 +38,8 @@ make
 Dependencies
 ------------
 
--cuda (http://www.nvidia.com/getcuda)
--boost (http://www.boost.org/)
+<li>cuda (http://www.nvidia.com/getcuda)</li>
+<li>boost (http://www.boost.org/)</li>
 -eigen3 (http://eigen.tuxfamily.org/index.php?title=Main_Page)
 -fftw3 (https://github.com/FFTW/fftw3)
 -sigar (https://github.com/hyperic/sigar)
